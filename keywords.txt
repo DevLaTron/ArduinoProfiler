@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map for Profiler
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Profiler  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getFreeRAM  KEYWORD2
+getFreeBlock    KEYWORD2
+getRAMUsage KEYWORD2
+getBlockUsage   KEYWORD2
+getInitRAM  KEYWORD2
+getInitBlock    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
